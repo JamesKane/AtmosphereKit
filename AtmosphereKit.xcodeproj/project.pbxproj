@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8E6FDCDC2D8ACA5F008936D6 /* AtmosphereKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E6FDCD12D8ACA5F008936D6 /* AtmosphereKit.framework */; };
+		8E6FDCED2D8ACA81008936D6 /* README.MD in Resources */ = {isa = PBXBuildFile; fileRef = 8E6FDCEC2D8ACA78008936D6 /* README.MD */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,6 +24,7 @@
 /* Begin PBXFileReference section */
 		8E6FDCD12D8ACA5F008936D6 /* AtmosphereKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AtmosphereKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E6FDCDB2D8ACA5F008936D6 /* AtmosphereKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AtmosphereKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E6FDCEC2D8ACA78008936D6 /* README.MD */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -73,6 +75,7 @@
 		8E6FDCC72D8ACA5E008936D6 = {
 			isa = PBXGroup;
 			children = (
+				8E6FDCEC2D8ACA78008936D6 /* README.MD */,
 				8E6FDCD32D8ACA5F008936D6 /* AtmosphereKit */,
 				8E6FDCDF2D8ACA5F008936D6 /* AtmosphereKitTests */,
 				8E6FDCD22D8ACA5F008936D6 /* Products */,
@@ -190,6 +193,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E6FDCED2D8ACA81008936D6 /* README.MD in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
